@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rahmadfirdiansyah
 
-Welcome to my GitHub profile! Here's a snapshot of my coding activity and favorite programming languages.
+Welcome to my GitHub profile!
 
 ## 🔥 GitHub Streak Stats
 
